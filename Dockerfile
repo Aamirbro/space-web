@@ -1,4 +1,3 @@
-
 FROM nginx 
 copy . .
 EXPOSE 80
